@@ -1,0 +1,1 @@
+# Scheduled-EC2-Scale-Down-and-Scale-Up-Using-Auto-Scaling
